@@ -1483,8 +1483,8 @@
     "type": "protocols"
   },
   "multicast": {
-    "meta": "https://raw.githubusercontent.com/DrozmotiX/ioBroker.multicast/main/io-package.json",
-    "icon": "https://raw.githubusercontent.com/DrozmotiX/ioBroker.multicast/main/admin/multicast.png",
+    "meta": "https://raw.githubusercontent.com/andiling/ioBroker.multicast/main/io-package.json",
+    "icon": "https://raw.githubusercontent.com/andiling/ioBroker.multicast/main/admin/multicast.png",
     "type": "network"
   },
   "musiccast": {
