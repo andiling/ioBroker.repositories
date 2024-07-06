@@ -871,7 +871,7 @@
   },
   "heliotherm": {
     "meta": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/master/io-package.json",
-    "icon": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/master/admin/regler.png",
+    "icon": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/master/admin/Regler.png",
     "type": "climate-control"
   },
   "heos": {
