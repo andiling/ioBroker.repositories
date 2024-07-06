@@ -869,6 +869,11 @@
     "icon": "https://raw.githubusercontent.com/iobroker-community-adapters/ioBroker.helios/master/admin/helios.png",
     "type": "climate-control"
   },
+  "heliotherm": {
+    "meta": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/master/io-package.json",
+    "icon": "https://raw.githubusercontent.com/andiling/ioBroker.heliotherm/master/admin/regler.png",
+    "type": "climate-control"
+  },
   "heos": {
     "meta": "https://raw.githubusercontent.com/withstu/ioBroker.heos/main/io-package.json",
     "icon": "https://raw.githubusercontent.com/withstu/ioBroker.heos/main/admin/heos.png",
